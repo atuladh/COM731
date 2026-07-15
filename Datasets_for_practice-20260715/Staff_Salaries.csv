@@ -1,0 +1,79 @@
+position,discipline,phd,service hours,gender,salary
+Prof,Computer Science,56,49,Male,186960
+Prof,Economics,12,6,Male,93000
+Prof,Education,23,20,Male,110515
+Prof,Art,15,31,Male,131205
+Prof,Computer Science,20,18,Male,104800
+Prof,Psychology,20,20,Male,122400
+AssocProf,Management,20,17,Male,81285
+Prof,Law,18,18,Male,126300
+Prof,Computer Science,29,19,Male,94350
+Prof,Psychology,51,51,Male,117800
+Prof,Psychology,39,33,Male,128250
+Prof,Psychology,23,23,Male,134778
+AsstProf,Engineering,12,0,Male,88000
+Prof,Computer Science,35,33,Male,162200
+Prof,Medicine,25,19,Male,153750
+Prof,Medicine,17,3,Male,150480
+AsstProf,Dentistry,8,3,Male,75044
+AsstProf,Engineering,14,0,Male,92000
+Prof,Economics,19,7,Male,107300
+Prof,Medicine,29,27,Male,150500
+AsstProf,Engineering,4,4,Male,92000
+Prof,Education,33,30,Male,103106
+AsstProf,Dentistry,4,2,Male,73000
+AsstProf,Engineering,2,0,Male,85000
+Prof,Psychology,30,23,Male,121100
+Prof,Computer Science,35,31,Male,99418
+Prof,Law,38,19,Male,148750
+Prof,Medicine,45,43,Male,155865
+AsstProf,Engineering,7,2,Male,91300
+Prof,Computer Science,21,20,Male,123683
+AssocProf,Nursing,9,7,Male,107008
+Prof,Medicine,22,21,Male,155750
+Prof,Economics,27,19,Male,103275
+Prof,Psychology,18,18,Male,120000
+AssocProf,Nursing,12,8,Male,119800
+Prof,Education,28,23,Male,126933
+Prof,Computer Science,45,45,Male,146856
+Prof,Psychology,20,8,Male,102000
+AsstProf,Engineering,14,3,Male,91000
+Prof,Art,8,18,Female,129000
+Prof,Economics,39,36,Female,137000
+AssocProf,Management,13,8,Female,74830
+AsstProf,Dentistry,4,2,Female,80225
+AsstProf,Dentistry,5,0,Female,77000
+Prof,Medicine,23,19,Female,151768
+Prof,Education,25,25,Female,140096
+AsstProf,Dentistry,11,3,Female,74692
+AssocProf,Nursing,11,11,Female,103613
+Prof,Economics,17,17,Female,111512
+Prof,Psychology,17,18,Female,122960
+AsstProf,Engineering,10,5,Female,97032
+Prof,Computer Science,20,14,Female,127512
+Prof,Education,12,0,Female,105000
+AsstProf,Dentistry,5,3,Female,73500
+AssocProf,Management,25,22,Female,62884
+AsstProf,Dentistry,2,0,Female,72500
+AssocProf,Nursing,10,8,Female,117500
+AsstProf,Dentistry,3,1,Female,72500
+Prof,Law,36,26,Female,144651
+AssocProf,Nursing,12,10,Female,103994
+AsstProf,Engineering,3,3,Female,92000
+AssocProf,Nursing,13,10,Female,103750
+AssocProf,Nursing,14,7,Female,109650
+Prof,Psychology,29,27,Female,131000
+AssocProf,Management,26,24,Female,73300
+Prof,Economics,36,19,Female,117555
+AsstProf,Finance,7,6,Female,63100
+Prof,Computer Science,17,11,Female,90450
+AsstProf,Dentistry,4,2,Female,77500
+Prof,Education,28,7,Female,116450
+AsstProf,Dentistry,8,3,Female,78500
+AssocProf,Management,12,9,Female,71065
+Prof,Economics,24,15,Female,161101
+Prof,Education,18,10,Female,105450
+AssocProf,Social Science,19,6,Female,104542
+Prof,Computer Science,17,17,Female,124312
+Prof,Psychology,28,14,Female,109954
+Prof,Law,23,15,Female,109646
